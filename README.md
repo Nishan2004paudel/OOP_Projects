@@ -17,6 +17,12 @@ This project helps revise functions, switch-case statements, input handling, and
 
 ---
 
+### 📝 To-Do List (CLI)
+A menu-driven command-line to-do list application that allows users to add, view, and delete tasks.  
+This project focuses on arrays, loops, functions, pass-by-reference, and basic program flow management.
+
+---
+
 More mini projects will be added progressively to continue strengthening C++ and OOP fundamentals.
 
 ---
