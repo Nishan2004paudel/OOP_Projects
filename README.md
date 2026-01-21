@@ -23,6 +23,12 @@ This project focuses on arrays, loops, functions, pass-by-reference, and basic p
 
 ---
 
+### 📂 Student Management System
+A console-based application to add, view, and save student records in a file.  
+This project introduces **structs, arrays of structs, and file handling**, laying the groundwork for real OOP programs.
+
+---
+
 More mini projects will be added progressively to continue strengthening C++ and OOP fundamentals.
 
 ---
