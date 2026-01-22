@@ -41,6 +41,13 @@ This project combines OOP with file handling to save and load data, introducing 
 
 ---
 
+## 🔐 Password Manager (CLI)
+
+A simple command-line password manager built as part of my C++ learning and revision journey.  
+This project focuses on applying **object-oriented programming concepts**, **file handling**, and **real-world data modeling** in a small but practical application.
+
+---
+
 More mini projects will be added progressively to continue strengthening C++ and OOP fundamentals.
 
 ---
