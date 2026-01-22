@@ -23,6 +23,12 @@ This project focuses on arrays, loops, functions, pass-by-reference, and basic p
 
 ---
 
+### 🏦 Bank Account System
+A simple bank account management system implemented using classes.  
+This project focuses on core OOP concepts such as encapsulation, private data members, public methods, and object interaction through a menu-driven interface.
+
+---
+
 More mini projects will be added progressively to continue strengthening C++ and OOP fundamentals.
 
 ---
