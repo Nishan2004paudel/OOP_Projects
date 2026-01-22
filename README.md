@@ -35,6 +35,12 @@ This project introduces **structs, arrays of structs, and file handling**, layin
 
 ---
 
+### 💾 File-Based Library System
+An enhanced version of the library management system with persistent storage.  
+This project combines OOP with file handling to save and load data, introducing serialization, deserialization, and real-world application behavior.
+
+---
+
 More mini projects will be added progressively to continue strengthening C++ and OOP fundamentals.
 
 ---
