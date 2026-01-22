@@ -48,6 +48,13 @@ This project focuses on applying **object-oriented programming concepts**, **fil
 
 ---
 
+## 💰 Expense Tracker (CLI)
+
+A command-line based expense tracker developed as part of my C++ learning and revision journey.  
+This project focuses on building a **real-world application** while reinforcing **object-oriented programming concepts**, **file handling**, and **basic data analysis logic**.
+
+---
+
 More mini projects will be added progressively to continue strengthening C++ and OOP fundamentals.
 
 ---
