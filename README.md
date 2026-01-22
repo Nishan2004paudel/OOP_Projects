@@ -55,6 +55,15 @@ This project focuses on building a **real-world application** while reinforcing 
 
 ---
 
+## 🖥️ Mini Shell (CLI)
+
+A simple Unix-like mini shell built as part of my C++ learning journey to understand **how command-line shells work internally**.  
+This project bridges **C++ programming with operating system concepts**, focusing on process creation and command execution in Linux.
+
+The shell continuously accepts user commands, executes system programs, and supports basic built-in commands such as `cd` and `exit`.
+
+---
+
 More mini projects will be added progressively to continue strengthening C++ and OOP fundamentals.
 
 ---
