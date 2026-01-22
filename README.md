@@ -23,6 +23,12 @@ This project focuses on arrays, loops, functions, pass-by-reference, and basic p
 
 ---
 
+### 🏦 Bank Account System
+A simple bank account management system implemented using classes.  
+This project focuses on core OOP concepts such as encapsulation, private data members, public methods, and object interaction through a menu-driven interface.
+
+---
+
 ### 📂 Student Management System
 A console-based application to add, view, and save student records in a file.  
 This project introduces **structs, arrays of structs, and file handling**, laying the groundwork for real OOP programs.
