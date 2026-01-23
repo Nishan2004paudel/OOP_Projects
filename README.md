@@ -75,6 +75,14 @@ Different geometric shapes are modeled using a common base class, and area calcu
 
 ---
 
+## 🎮 Game Engine–Style Entity System (OOP)
+
+A simplified game engine–style entity system built to demonstrate **inheritance**, **polymorphism**, and **runtime behavior** in C++.  
+This project models how real game engines manage different game objects using a common interface, allowing the engine to update and render entities without knowing their concrete types.
+
+---
+
+
 More mini projects will be added progressively to continue strengthening C++ and OOP fundamentals.
 
 ---
