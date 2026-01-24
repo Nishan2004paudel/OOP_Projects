@@ -103,4 +103,13 @@ This project demonstrates inheritance, polymorphism, and abstraction in C++, whi
 A simple command-line chatbot that interacts with the user, responds to basic questions, and learns new responses during runtime.
 This project demonstrates object-oriented programming, file handling, and interactive CLI design, simulating a small real-world conversational system.
 
+---
+
+### 🍽️ Restaurant Management System (CLI)
+
+A menu-driven command-line application that simulates basic restaurant operations such as managing menu items, placing customer orders, and generating bills.
+This project brings together object-oriented programming concepts, file handling, and real-world business logic, demonstrating how multiple classes interact to model a complete system.
+
+---
+
 More mini projects will be added progressively to continue strengthening **C++ and object-oriented programming fundamentals**.
