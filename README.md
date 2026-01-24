@@ -98,4 +98,9 @@ This project demonstrates inheritance, polymorphism, and abstraction in C++, whi
 
 ---
 
+### 🤖 Mini Chatbot (CLI)
+
+A simple command-line chatbot that interacts with the user, responds to basic questions, and learns new responses during runtime.
+This project demonstrates object-oriented programming, file handling, and interactive CLI design, simulating a small real-world conversational system.
+
 More mini projects will be added progressively to continue strengthening **C++ and object-oriented programming fundamentals**.
