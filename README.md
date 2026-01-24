@@ -91,4 +91,11 @@ This project focuses on applying object-oriented programming principles, using S
 
 ---
 
+### 🎮 Virtual Pet Simulator (CLI)
+
+A menu-driven command-line application that allows users to adopt, feed, play with, and interact with virtual pets.
+This project demonstrates inheritance, polymorphism, and abstraction in C++, while applying OOP principles and building a fun, real-world–inspired simulation.
+
+---
+
 More mini projects will be added progressively to continue strengthening **C++ and object-oriented programming fundamentals**.
